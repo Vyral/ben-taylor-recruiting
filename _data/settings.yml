@@ -1,10 +1,10 @@
 audit_header: false
 title:
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+description: Ben Taylor, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
-    url: /join-our-team/
+    url: http://kwuk.com/careers.html
   - title: Events
     url: #
   - title: Free Strategy Call
@@ -14,21 +14,23 @@ custom_links:
 
 
 client:
-  name:
+  name: Ben Taylor
   title:
   license_number:
   about_markdown: |
+    “Welcome to Keller Williams, a worldwide revolution in estate agency and the UK’s most personal property service.” - <strong>Ben Taylor, Managing Director, Keller Williams UK</strong>
 
+    Keller Williams adopts a different approach to estate agency – we go the extra mile to sell your property. Here you will have one dedicated agent who will see the transaction through from start to finish. To us, service is paramount. A crucial difference is that our agents are their own bosses – so they are driven to complete sales transactions. You will notice the difference.
   market:
-  brand:
+  brand: Keller Williams
   brokerage:
   address:
-  phone:
+  phone: +44 207 078 3939
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: ben.taylor@kwuk.com
+  url: http://kwuk.com
 
 lender:
   show_section: false
@@ -44,12 +46,12 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/KWUK2013
+  linkedin_url: https://www.linkedin.com/company/keller-williams-uk
   gplus_url:
   youtube_url:
-  twitter_url:
-  instagram_url:
+  twitter_url: https://twitter.com/thekwuk
+  instagram_url: https://www.instagram.com/kwprimeofficial/
   pinterest_url:
   zillow_url:
   trulia_url:
