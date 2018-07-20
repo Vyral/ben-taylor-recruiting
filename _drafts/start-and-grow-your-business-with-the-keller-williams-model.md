@@ -24,7 +24,7 @@ youtube_code: jbcNxT63O4s
 
 {% include youtube.html %}
 
-Today I want to discuss the pain points that may be keeping you from joining a model like Keller Williams and how it can make a huge difference to you and your company.
+<center>Today I want to discuss the pain points that may be keeping you from joining a model like Keller Williams and how it can make a huge difference to you and your company.</center>
 
 Over the past few months, I have been speaking with agents who are debating about whether or not joining Keller Williams is what the right choice four them. Many people talk to me about what is stopping them from starting their own company and what is keeping them outside of a model like Keller Williams.
 
