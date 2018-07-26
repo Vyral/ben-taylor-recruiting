@@ -28,13 +28,13 @@ youtube_code: jbcNxT63O4s
 
 &nbsp;
 
-Over the past few months, I have been speaking with agents who are debating about whether or not joining Keller Williams is what the right choice for them. Many people talk to me about what is stopping them from starting their own company and what is keeping them outside of a model like Keller Williams.
+Over the past few months, I have been speaking with agents who are debating about whether or not joining Keller Williams was the right choice for them. Many people talk to me about what is stopping them from starting their own company and what is keeping them outside of a model like Keller Williams.
 
 For this reason, I want to discuss pain points, as well as share how the Keller Williams systems and models can make a big difference for you, and how it will enable you to start your own company at a very low cost, all while building a lifestyle around your business.
 
 **One of your biggest assets is time**. If you sell all of your time for a basic, low salary working from 8:30 a.m. to 6:00 p.m., you are giving away that time for a relatively low amount. In London, the average basic salary for a negotiator is &pound;19,000. This means that you are only making around &pound;1,350 per month, with which it is difficult to start to build or create wealth.
 
-**The second thing to consider is how much commission you give away during every transaction**. Just like any business, you've got to look at your revenue. While many agents look at how much they’re getting, I look at how much they’re giving away. Instead of getting 10%, you are giving away 90%, which makes it hard to generate any real business of your own.
+**The second thing to consider is how much commission you give away during every transaction**. Just like any business, you've got to look at your revenue. While many agents look at how much they’re receiving, I look at how much they’re giving away. Instead of getting 10%, you are giving away 90%, which makes it hard to generate any real business of your own.
 
 Finally, **you need to consider your database**. Your database is a list of clients who you are going to deal with for a lifetime. They are the people who will recommend you to their children when they are considering buying or letting. You want to be their adviser. Normally, here in the UK, we do not build any clients at all because ultimately the clients are owned by the business paying your salary.
 
