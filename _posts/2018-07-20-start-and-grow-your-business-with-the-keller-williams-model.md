@@ -3,8 +3,6 @@ layout: post
 title: Start and Grow Your Business With the Keller Williams Model
 date: 2018-07-20 00:00:00
 tags:
-  - Property Market
-  - Recruiting
 excerpt: >-
   Today I want to discuss the pain points that may be keeping you from joining a
   model like Keller Williams and how it can make a huge difference to you and
@@ -18,7 +16,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/ben-taylor-ss-july-1-no-play.jpg
+youtube_alternate_image: /uploads/ben-taylor-ss-july-1-no-play-1.jpg
 youtube_code: jbcNxT63O4s
 ---
 
@@ -26,19 +24,19 @@ youtube_code: jbcNxT63O4s
 
 <center><em>Today I want to discuss the pain points that may be keeping you from joining a model like Keller Williams and how it can make a huge difference to you and your company.</em></center>
 
-&nbsp;
+ 
 
 Over the past few months, I have been speaking with agents who are debating about whether or not joining Keller Williams was the right choice for them. Many people talk to me about what is stopping them from starting their own company and what is keeping them outside of a model like Keller Williams.
 
 For this reason, I want to discuss pain points, as well as share how the Keller Williams systems and models can make a big difference for you, and how it will enable you to start your own company at a very low cost, all while building a lifestyle around your business.
 
-**One of your biggest assets is time**. If you sell all of your time for a basic, low salary working from 8:30 a.m. to 6:00 p.m., you are giving away that time for a relatively low amount. In London, the average basic salary for a negotiator is &pound;19,000. This means that you are only making around &pound;1,350 per month, with which it is difficult to start to build or create wealth.
+**One of your biggest assets is time**. If you sell all of your time for a basic, low salary working from 8:30 a.m. to 6:00 p.m., you are giving away that time for a relatively low amount. In London, the average basic salary for a negotiator is £19,000. This means that you are only making around £1,350 per month, with which it is difficult to start to build or create wealth.
 
 **The second thing to consider is how much commission you give away during every transaction**. Just like any business, you've got to look at your revenue. While many agents look at how much they’re receiving, I look at how much they’re giving away. Instead of getting 10%, you are giving away 90%, which makes it hard to generate any real business of your own.
 
 Finally, **you need to consider your database**. Your database is a list of clients who you are going to deal with for a lifetime. They are the people who will recommend you to their children when they are considering buying or letting. You want to be their adviser. Normally, here in the UK, we do not build any clients at all because ultimately the clients are owned by the business paying your salary.
 
-I became involved with Keller Williams because I saw it as an opportunity to provide you with not only a physical place to work but also instructions and training, all for a small fee. **In London, the &pound;250 plugs you into all the systems and models of Keller Williams while making it very easy for you to run your business**.
+I became involved with Keller Williams because I saw it as an opportunity to provide you with not only a physical place to work but also instructions and training, all for a small fee. **In London, the £250 plugs you into all the systems and models of Keller Williams while making it very easy for you to run your business**.
 
 {% include pullquote.html %}
 
