@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Start and Grow Your Own Estate Agency Today
+title: Start and Grow Your Business With the Keller Williams Model
 date: 2018-08-23 00:00:00
 tags:
 excerpt: >-
