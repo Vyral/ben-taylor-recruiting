@@ -3,8 +3,7 @@ layout: post
 title: How Can We Help You Cut Costs and Grow Your Revenue?
 date: 2018-08-29 00:00:00
 tags:
-  - Estate Agency
-  - Training
+  - Transaction Management
 excerpt: >-
   If you’re the owner of a large estate agency business, we at Keller Williams
   can put our systems, training, technology, and models underneath your business
