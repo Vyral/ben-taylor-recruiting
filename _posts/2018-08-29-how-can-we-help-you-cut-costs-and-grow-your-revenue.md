@@ -20,7 +20,9 @@ youtube_code: l3Hb6xAU1w8
 
 {% include youtube.html %}
 
-<center>If you’re the owner of a large estate agency business, we at Keller Williams can put our systems, training, technology, and models underneath your business to help it succeed.</center>
+<center><em>If you&rsquo;re the owner of a large estate agency business, we at Keller Williams can put our systems, training, technology, and models underneath your business to help it succeed.</em></center>
+
+&nbsp;
 
 If you’re an estate agency owner going through some hard times, how can Keller Williams help you?
 
