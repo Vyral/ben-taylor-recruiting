@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can We Help You Cut Costs and Grow Your Revenue?
-date: 2018-08-29 00:00:00
+date: 2018-09-24 00:00:00
 tags:
   - Transaction Management
 excerpt: >-
@@ -22,7 +22,7 @@ youtube_code: l3Hb6xAU1w8
 
 <center><em>If you&rsquo;re the owner of a large estate agency business, we at Keller Williams can put our systems, training, technology, and models underneath your business to help it succeed.</em></center>
 
-&nbsp;
+ 
 
 If you’re an estate agency owner going through some hard times, how can Keller Williams help you?
 
