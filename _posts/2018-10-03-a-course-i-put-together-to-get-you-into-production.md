@@ -19,7 +19,9 @@ youtube_code: 0qK2fjHpzW8
 
 {% include youtube.html %}
 
-<center>The first step to my 12x12 short course to get you started in production and get cash flowing.</center>
+<center><em>The first step to my 12x12 short course to get you started in production and get cash flowing.</em></center>
+
+&nbsp;
 
 Today I want to talk about what to expect if you are joining Keller Williams. As the world’s No. 1 training company, there is a wealth of training with no shortage of courses.
 
