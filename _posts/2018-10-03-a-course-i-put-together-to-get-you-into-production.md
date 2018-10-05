@@ -19,15 +19,13 @@ youtube_code: 0qK2fjHpzW8
 
 {% include youtube.html %}
 
-<center><em>The first step to my 12x12 short course to get you started in production and get cash flowing.</em></center>
+<center><em>Today I will share the first step to my 12x12 short course to get you started in production and get cash flowing.</em></center>
 
 &nbsp;
 
 Today I want to talk about what to expect if you are joining Keller Williams. As the world’s No. 1 training company, there is a wealth of training with no shortage of courses.
 
-However, I wanted to put something very specific together for you about getting into production and getting cash flow into your business as quickly as possible.
-
-To show you how to do this, **I have put together a course called 12x12**. This new resource is a combination of the things that we teach within Keller Williams plus my many years of experience working for an agency condensed into one short course. Over the next few videos, I will share the steps with you of the 12x12.
+Now, by drawing on my own years of experience, **I have added a brand-new course to Keller Williams' already extensive list of resources**. This new course, called 12x12, combines the teachings of Keller Williams with the knowledge I've personally accrued through my time working for an agency. &nbsp;<br><br>12x12 is designed to help agents get into production and start seeing cash flow in their business as quickly as possible. Over our next few videos we'll be sharing the steps behind this exciting new course.
 
 So, what is 12x12 and why is it called this? I wanted to create something that allows agents to take instructions on three properties per week within 12 weeks of joining the business. This gives you 12 properties to list per month. If you have seen some of my previous videos, you know that 12 instructions in our business, even when selling a very low percentage of those instructions, will provide you enough to get your business motoring and generate you some significant income.
 
