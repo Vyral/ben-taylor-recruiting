@@ -20,7 +20,7 @@ youtube_code: 4O3gzez3GBE
 
 {% include youtube.html %}
 
-What’s “the big why” and why is it so important to an agent’s development within the Keller Williams system? We’re going to explore the answer to that question today.
+<center>What’s “the big why” and why is it so important to an agent’s development within the Keller Williams system? We’re going to explore the answer to that question today.</center>
 
 Welcome back to my series detailing the Keller Williams 12x12 program. It’s our approach to getting an agent into production as quickly as possible, which is crucial to an agent’s success when building their own business.
 
