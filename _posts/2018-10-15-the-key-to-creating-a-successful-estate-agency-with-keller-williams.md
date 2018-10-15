@@ -46,4 +46,4 @@ So before you go out there and say, “Hey listen to me, everyone!” Get ready 
 
 To those of you who are interested in how Keller Williams helps people build the big “why”s &nbsp;for their lives, we actually run courses called “1,3, 5” and “4-1-1”, which I’ll be running videos on in the near future.
 
-If you are looking to start out in an estate agency and build your own business using our unique structure, then get in touch today. Don't hesitate to [contact us](http://kwuk.com/contact.html)!
+If you are looking to start out in an estate agency and build your own business using our unique structure, then get in touch today. Don't hesitate to [contact us](http://kwuk.com/contact.html){: target="_blank"}!
