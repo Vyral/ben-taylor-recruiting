@@ -21,7 +21,7 @@ youtube_code: EchfOXi27gM
 
 {% include youtube.html %}
 
-Part three of our series looks at the fundamental concepts found in Millionaire Real Estate Agent.
+<center>Part three of our series looks at the fundamental concepts found in Millionaire Real Estate Agent.</center>
 
 Welcome to the final part in my series detailing the Keller Williams 12x12 programme. It’s our approach to getting an agent into production as quickly as possible, which is crucial to an agent’s success when building their own business. Today’s focus will be on **Millionaire Real Estate Agent (MREA)** by Gary Keller.
 
